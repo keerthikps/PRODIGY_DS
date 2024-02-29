@@ -1,7 +1,7 @@
 # PRODIGY_DS 
 TASK-01
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Visulaize distribution of genders in a population.
+Visualize distribution of genders in a population.
 
 TASK-02
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -9,7 +9,7 @@ Perform data cleaning and EDA(Exploratory data analysis) on Titanic dataset to i
 
 TASK-03
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Decision tree classifier to predict the customer behaviour from the bank marketing dataset from UCI MAchine learning repository.
+Decision tree classifier to predict the customer behaviour from the bank marketing dataset from UCI Machine learning repository.
 
 TASK-04
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
